@@ -13,3 +13,13 @@ Intrese boosts an impressive array of features designed to elevate your experien
 
 Documentation can be found in the [documentation section by clicking here](https://webstar.live/documentation/intrese).
     The official website for Intrese will be launched soon, hoping to be intrese.info!
+
+Some of the websites we support with Intrese:
+
+-   [Google](https://google.com)
+-   [Youtube](https://www.youtube.com)
+-   [Spotify](https://spotify.com)
+-   [Discord](https://discord.com)
+-   [Reddit](https://reddit.com)
+-   [GeForce NOW](https://play.geforcenow.com/)
+-   [now.gg](https://now.gg)

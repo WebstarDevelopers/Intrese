@@ -1,1 +1,48 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Intrese</title>
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+<body>
+    <div class="enlarged-text">
+        <h1>Intrese by Webstar</h1>
+    </div>
+    <script src="/js/index.js"></script>
+    <script src="/js/go.js"></script>
+    <div class="title">
+        <h1 id="title1"></h1>
+    </div>
+    <div class="searchbox" id="searchbox">
+        <input class="search" id="search" placeholder='Search Google or input a URL...' type='text'/>
+    </div>
+    <div class="icons"></div>
+    <script>
+        var proxy=localStorage.getItem("proxy");
+        if (proxy==undefined){
+            proxy="Corrosion";
+        }
+        var fontsize1=2560/screen.width*18;
+        var fontsize2=2560/screen.width*6;
+
+        title1.style.fontSize = fontsize1+"px";
+        search.style.fontSize = fontsize2+"px";
+
+        document.addEventListener("keypress", function onEvent(event) {
+            if (event.key === "Enter") {
+                var url=search.value;
+                window.location.href=window.location.href+"service/gateway?url=" + url;
+            }
+        });
+    </script>
+</body>
+<body>
+    <div class="navbar">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="https://github.com/WebstarDevelopers/Intrese">GitHub</a></li>
+        </ul>
+    </div>
+</body>
+</html>

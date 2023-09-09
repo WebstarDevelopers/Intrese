@@ -11,4 +11,5 @@ Intrese boosts an impressive array of features designed to elevate your experien
 <h1 align="center">Documentation</h1>
 
 
-Documentation can be found in the [documentation section by clicking here](https://webstar.link/documentation/intrese).
+Documentation can be found in the [documentation section by clicking here](https://webstar.live/documentation/intrese).
+    The official website for Intrese will be launched soon, hoping to be intrese.info!

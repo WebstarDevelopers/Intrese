@@ -4,4 +4,4 @@
 
 Intrese is a highly advanced web proxy used for bypassing internet censorship or accessing websites in a controlled sandbox. It is designed with security and performance in mind.
 
-# Your Web, Your Rules, Intrese.
+<h1 align="center"># Your Web, Your Rules, Intrese.</h1>
